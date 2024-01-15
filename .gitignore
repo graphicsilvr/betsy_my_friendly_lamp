@@ -1,0 +1,27 @@
+# Ignore virtual environment files
+venv/
+
+# Ignore database files
+*.db
+
+# Ignore log files
+*.log
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore configuration files
+config.ini
+
+# Ignore API documentation
+docs/
+
+# Ignore code snippets folder
+code_snippets/
+
+# Ignore __pycache__ directory
+__pycache__/
+*.pyc
+betsy.db
+betsy.log
